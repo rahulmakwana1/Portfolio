@@ -1,0 +1,21 @@
+{
+    "site_name": "Rahul's portfolio",
+    "img_favicon": "https://lh3.googleusercontent.com/7y6b3ida3Q7nvAmwA2jG38zQ-RX5M1D5RSo6BXS2_Fw8OgU9OslvW21xy5kCG0Me6yRya2-xvUV0BKLlTJfD_DFNPsYxtLHRfmli-w",
+    "img_logo_nav": "https://lh3.googleusercontent.com/7y6b3ida3Q7nvAmwA2jG38zQ-RX5M1D5RSo6BXS2_Fw8OgU9OslvW21xy5kCG0Me6yRya2-xvUV0BKLlTJfD_DFNPsYxtLHRfmli-w",
+    "img_logo_footer": "https://lh3.googleusercontent.com/r78hW0Ve_S04d7c9A1tOgodhHsDl_2AnUoQCyC7CSsXi3BTLD47OJF_5gPbhrvfqD1ORnmXZHLQUFqAFb_1Waeyo9QQCFDP0ohbS9I5U",
+
+    "social": {
+        "twitter": {
+            "link": "https://twitter.com/rahulma29751296",
+            "show_or_hide": true
+        },
+        "linkedin": {
+            "link": "https://www.linkedin.com/in/rahul-makwana-064a98138/",
+            "show_or_hide": true
+        },
+        "github": {
+            "link": "https://github.com/rahulmakwana1",
+            "show_or_hide": true
+        }
+    }
+}

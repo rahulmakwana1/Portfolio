@@ -1,0 +1,32 @@
+{
+    "hero": {
+        "greeting":"Welcome!",
+        "Introduction":"My name is Rahul and I am from India.I am pursuing Artificial Intelligence course in Centennial College!",
+        "image_profile":"https://lh3.googleusercontent.com/ulnLBAMbgblJPBPQLnIZuTHpKbLG68IN4dHnvQWzHfHMSXn-DtlGeOaMyD7n2Bq1A9l_ccXT6b-Za6uiyqc0b6NHePf4FbFNBg-VppY",
+        "img_background": "https://lh3.googleusercontent.com/-iThFp9rtNxoC4nV2ZaiTKDFAVDCz-c2tosS-fmwSncEOwCBJbRSB9XmOL4f2HM1I7b2LG_9SbDC0TXvlIrKcknJhHb-WRwik5DtCw"
+    },
+    "projects":{
+        "header":"My Projects",
+        "subheader":"Take a look at my most recent projects"
+
+    },
+    "service": {
+        "img_1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPvGBbHBqb9P3tAP0zROQobn6daXTZ9et14g&usqp=CAU",
+        "img_2": "https://cdn-icons-png.flaticon.com/512/2083/2083213.png",
+        "img_3": "https://static.thenounproject.com/png/1266221-200.png",
+        "img_4": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpVBslwCCkwJn2kL7ccKX5GZGmsWRgwZBie1TepcKhJd3xo5iOdk9V8hESK6ZkwdokfIo&usqp=CAU",
+        "img_5": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVtsA4TP597Ya49Qkr8_oNTnjLb0ZS9ZP2mQ&usqp=CAU",
+        "img_6": "https://appworksinc.com/wp-content/uploads/2019/05/vision-logo.png"
+    },
+    "contact":{
+        "header":"Contact me",
+        "subheader":"If you want to contact me fill out the form below and I will get back to you right away!"
+
+    },
+    "about me":{
+        "header":"About me",
+        "subheader2":"A GOAL IS A DREAM WITH A DEADLINE",
+        "subheader":"I am Rahul Makwana.I have completed my bachelor's in Computer in India.I have a keen interest in Machine Learning , Deep Learning and Data Science and hence I have made many projects such as sign language detection, face recognition and many more that you can see on my project section.I am a dedicated student working towards the future where I want to pursue my career as a data scientist or machine learning engineer."
+
+    }
+} 
